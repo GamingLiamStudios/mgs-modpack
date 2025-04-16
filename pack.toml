@@ -1,0 +1,13 @@
+name = "MagicalGamingServer"
+author = "GLS"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a4488bc7e259b3d6d3940cb34d2e1931a06d2910603a41a3712774ee91fe11dc"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.20.1"
